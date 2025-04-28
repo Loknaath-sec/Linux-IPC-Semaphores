@@ -1,4 +1,4 @@
-# Linux-IPC-Semaphores
+# Exp-5 Linux IPC Semaphores
 Ex05-Linux IPC-Semaphores
 
 # AIM:
